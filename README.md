@@ -1,4 +1,8 @@
 ### Hi there 👋
+⚡ Repo code is really deprecated. It still need to be cleaned!
+
+
+
 
 <!--
 **KacperZielinski/KacperZielinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
