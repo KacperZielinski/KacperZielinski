@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡ Repo code is really deprecated. Don't treat that as a portfolio. It's playground.
+⚡ Never stop having fun.
 
 
 
